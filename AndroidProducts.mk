@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_phoenix.mk
+    $(LOCAL_DIR)/tipsy_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_phoenix-user \
-    xtended_phoenix-userdebug \
-    xtended_phoenix-eng
+    tipsy_phoenix-user \
+    tipsy_phoenix-userdebug \
+    tipsy_phoenix-eng
